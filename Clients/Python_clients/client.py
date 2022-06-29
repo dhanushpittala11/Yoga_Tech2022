@@ -20,6 +20,3 @@ wsapp.run_forever()
 if count == 5:
     with open('output.json',"w") as f:
         json.dumps(data,f)
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
