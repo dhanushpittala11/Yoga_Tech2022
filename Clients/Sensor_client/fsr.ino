@@ -9,7 +9,7 @@ WebSocketsClient webSocket;
 #define FSR2 34
 
 const char* ssid = "Neurolabs";
-const char* password = "neuroTechlab@iith";
+const char* password = "***********";
  
 unsigned long messageInterval = 1;
 bool connected = false;
