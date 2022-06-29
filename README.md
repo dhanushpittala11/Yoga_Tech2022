@@ -20,3 +20,16 @@ X-axis represents time for the sensor and Y-axis represents  sensor output volta
 
 PLot of data collected from the FSR sensor:
 ![image](https://user-images.githubusercontent.com/108401638/176480646-27b1529d-4f5a-4872-b32f-1233b8e4c834.png)
+
+Other sensors used in this project were GSR sensor, EMG and pressure sensing unit placed on yoga mat
+results were as follows:
+plot of EMG data:
+ ![EMG_plot](https://user-images.githubusercontent.com/108401638/176481559-659b7bfd-6d5c-47ca-9d2c-676234892941.png)
+plot of data collected from the GSR sensor:
+ ![GSR_data](https://user-images.githubusercontent.com/108401638/176481885-ea1ce324-2c31-4b50-9e20-87513a6848c4.png)
+results  obtained from yoga mat:
+![HeatMap_yogaMat](https://user-images.githubusercontent.com/108401638/176482172-3c456a35-548c-4904-8d85-824847f8d7b2.png)
+
+# Schematic of the whole project
+![Schematic_wholeProject](https://user-images.githubusercontent.com/108401638/176482495-925978e7-53dc-4f6f-a473-c8890410a710.png)
+
