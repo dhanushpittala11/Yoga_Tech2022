@@ -48,6 +48,7 @@ fig, axs = plt.subplots(3)
 
 
 def animate(i):
+    
     # Render plots as a matplotlib animation
     axs[0].cla()
     axs[0].set_title('Pulse Oximeter')
