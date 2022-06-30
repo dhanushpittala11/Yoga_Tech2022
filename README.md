@@ -33,3 +33,5 @@ results  obtained from yoga mat:
 # Schematic of the whole project
 ![Schematic_wholeProject](https://user-images.githubusercontent.com/108401638/176482495-925978e7-53dc-4f6f-a473-c8890410a710.png)
 
+# Contributors
+dhanushpittala11  akhilgattu02
